@@ -1,0 +1,78 @@
+﻿.heading {
+    color: green;
+}
+
+table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    border: 1px solid black;
+    text-align: center;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: lightblue;
+    text-align: center;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Thead {
+    background-color: lightblue;
+    text-align: center;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.topic {
+    color: white;
+    font-weight: bold;
+    display: grid;
+    place-items: center;
+    border: 2px solid black;
+    font-size: xx-large;
+    background-color: black;
+    font-family: Times New Roman;
+}
+
+.topic {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/BMW_M3_%28G80%29_China.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+* {
+    background-color: lightgray;
+}
+
+.centeredfigure {
+    display: grid;
+    place-items: center;
+}
+
+.sales {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    place-items: center;
+}
+
+.greenli {
+    color: green;
+}
